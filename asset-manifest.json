@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thesis-2/static/css/main.3f806051.css",
+    "main.js": "/thesis-2/static/js/main.a8d70e3d.js",
+    "static/js/453.8984fe50.chunk.js": "/thesis-2/static/js/453.8984fe50.chunk.js",
+    "static/media/mockup.png": "/thesis-2/static/media/mockup.040ff60215b85c8a230a.png",
+    "index.html": "/thesis-2/index.html",
+    "main.3f806051.css.map": "/thesis-2/static/css/main.3f806051.css.map",
+    "main.a8d70e3d.js.map": "/thesis-2/static/js/main.a8d70e3d.js.map",
+    "453.8984fe50.chunk.js.map": "/thesis-2/static/js/453.8984fe50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f806051.css",
+    "static/js/main.a8d70e3d.js"
+  ]
+}
